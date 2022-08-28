@@ -1,4 +1,4 @@
-# rodw homepage using tailwind css
+# rode homepage using tailwind css
 
 ![name](https://img.shields.io/badge/abhisek%20mishra-full%20stack%20developer-green)
 
